@@ -1,6 +1,8 @@
 # Introduction-to-Pandas-Leetcode
 This repository provides an introductory guide to using Pandas for data manipulation, alongside solving 15 LeetCode problems. The goal is to help you get comfortable with data analysis techniques using Pandas while simultaneously practicing coding problems that are commonly asked in technical interviews.
 
+![Pandas Logo](Code/Pandas.png)
+
 # What you'll find in this repo:
 - **LeetCode 15 Problems:** A collection of 15 LeetCode problems, including the problem description, solution, and detailed explanations.</br>
 - **Pandas DataFrame Operations:**  Step-by-step solutions using Pandas for various data manipulation tasks, including sorting, grouping, merging, filtering, and more.
